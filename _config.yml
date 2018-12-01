@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Keith Harrigian"
 title_separator          : "-"
 name                     : &name "Keith Harrigian"
-description              : &description "personal description"
+description              : &description "Research and musings by Keith Harrigian"
 url                      : https://kharrigian.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kharrigian/kharrigian.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Keith Harrigian"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Interested in ML + NLP with applications in biology and public health."
+  location         : "Boston, MA"
+  employer         : "Warner Media Applied Analytics"
+  googlescholar    :
   email            :
   uri              :
   bitbucket        :
@@ -94,19 +94,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "kharrigian"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/0000-0001-9483-8469"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "KHarrigian"
   vine             :
   weibo            :
   xing             :
