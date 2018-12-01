@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Interested using ML and NLP to understand human behavior."
   location         : "Boston, MA"
-  employer         : "Warner Media Applied Analytics"
+  employer         :
   googlescholar    :
   email            : "keith.harrigian@appliedanalytics.net"
   uri              :
@@ -106,7 +106,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "KHarrigian"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
