@@ -195,6 +195,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # hobbies
+  - scope:
+      path: ""
+      type: hobbies
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
 
 
 # Sass/SCSS
