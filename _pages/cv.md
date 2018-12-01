@@ -9,12 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Mathematics, Northeastern University, 2017
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+You can find my CV [here](https://kharrigian.github.io/files/HarrigianCV.pdf). It was last updated on 12/1/2018.
