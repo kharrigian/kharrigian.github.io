@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Keith Harrigian"
   avatar           : "profile.png"
-  bio              : "Interested in ML/NLP with applications in biology and public health."
+  bio              : "Interested using ML and NLP to understand human behavior."
   location         : "Boston, MA"
   employer         : "Warner Media Applied Analytics"
   googlescholar    :
-  email            :
+  email            : "keith.harrigian@appliedanalytics.net"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/kharrigian/"
   orcid            : # "https://orcid.org/0000-0001-9483-8469"
   pinterest        :
   soundcloud       :
