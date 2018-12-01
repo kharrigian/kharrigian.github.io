@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Keith Harrigian"
 title_separator          : "-"
 name                     : &name "Keith Harrigian"
-description              : &description "Research and musings by Keith Harrigian"
+description              : &description "Research and musings from Keith Harrigian"
 url                      : https://kharrigian.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kharrigian/kharrigian.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Keith Harrigian"
   avatar           : "profile.png"
-  bio              : "Interested in ML + NLP with applications in biology and public health."
+  bio              : "Interested in ML/NLP with applications in biology and public health."
   location         : "Boston, MA"
   employer         : "Warner Media Applied Analytics"
   googlescholar    :
@@ -207,7 +207,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
