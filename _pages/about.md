@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Keith Harrigian's Personal Site"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -15,7 +15,7 @@ Welcome to my site! I typically try to post major research and life milestones o
 Below are some facts about me. I'll leave it up to you to decide whether they're actually interesting :)
 
 * Born in Chicago, IL and raised in Los Angeles, CA.
-* Earned a BS in Mathematics from Northeastern University in Boston, MA
+* Earned a BS in Mathematics from Northeastern University in Boston, MA.
 * Currently a Quantitative Analyst at Warner Media Applied Analytics, serving HBO, Turner Broadcasting, and Warner Bros.
 * Self-taught computer scientist, with current research focusing primarily on natural language processing, multi-modal machine learning, and anomaly detection.
 * Fostered over 40 rescue Golden Retrievers before moving away to college. Cannot wait to adopt one of my own.
