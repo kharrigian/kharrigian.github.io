@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-List last updated: 12/1/2018.
+Last updated: 12/1/2018.
 
 ### Peer-Reviewed Papers
 
