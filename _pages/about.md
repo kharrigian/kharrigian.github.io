@@ -16,10 +16,10 @@ Below are some facts about me. I'll leave it up to you to decide whether they're
 
 * Born in Chicago, IL and raised in Los Angeles, CA.
 * Earned a BS in Mathematics from Northeastern University in Boston, MA.
-* Currently a Quantitative Analyst at Warner Media Applied Analytics, serving HBO, Turner Broadcasting, and Warner Bros.
+* Currently a Quantitative Analyst at Warner Media Applied Analytics, serving HBO, Warner Bros., and Turner Broadcasting.
 * Self-taught computer scientist, with current research focusing primarily on natural language processing, multi-modal machine learning, and anomaly detection.
-* Fostered over 40 rescue Golden Retrievers before moving away to college. Cannot wait to adopt one of my own.
-* My favorite hobby is model railroading. You can find out more about my layout [<span style="color:blue">here</span>](https://kharrigian.github.io/hobbies/)
+* Fostered over 40 rescue Golden Retrievers before moving away to college. Cannot wait to adopt one of my own!
+* My favorite hobby is model railroading. You can find out more about my layout [<span style="color:blue">here</span>](https://kharrigian.github.io/hobbies/).
 
 
 ## News Alerts
