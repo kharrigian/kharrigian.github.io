@@ -16,13 +16,15 @@ Below are some facts about me. I'll leave it up to you to decide whether they're
 
 * Born in Chicago, IL and raised in Los Angeles, CA.
 * Earned a BS in Mathematics from Northeastern University in Boston, MA.
-* Currently a Quantitative Analyst at Warner Media Applied Analytics, serving HBO, Warner Bros., and Turner Broadcasting.
+* Currently a Senior Quantitative Analyst at Warner Media Applied Analytics, serving HBO, Warner Bros., and Turner Broadcasting.
 * Self-taught computer scientist, with current research focusing primarily on natural language processing, multi-modal machine learning, and anomaly detection.
 * Fostered over 40 rescue Golden Retrievers before moving away to college. Cannot wait to adopt one of my own!
 * My favorite hobby is model railroading. You can find out more about my layout [<span style="color:blue">here</span>](https://kharrigian.github.io/hobbies/).
 
 
 ## News Alerts
+
+**2/12/2019** - I've been promoted to Senior Quantitative Analyst. Grateful for the support that my co-workers have provided to get me to this point.
 
 **11/1/2018** - I'll be attending EMNLP in Brussels, Belgium to present the first-ever approach for geolocating Reddit users. Long-paper can be found [<span style="color:blue">here</span>](http://aclweb.org/anthology/W18-6103). I'll be giving one of the extended talks within the Workshop on Noisy User-generated Text.
 
