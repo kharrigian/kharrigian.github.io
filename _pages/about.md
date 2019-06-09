@@ -24,7 +24,7 @@ Below are some facts about me. I'll leave it up to you to decide whether they're
 
 ## News Alerts
 
-**6/7/2019** - After 2 owners, 3 years, and 4 positions, yesterday marked my last day with Warner Media Applied Analytics. I will forever be thankful for the opportunities that were made available to me by my wonderful colleagues during that time. I now look forward to taking on new challenges as a Computer Science PhD student at Johns Hopkins University. Starting in August, I will be working alongside the Center for Language and Speech Processing and the Malone Center for Engineering in Healthcare to create new clinical decision support tools. Beyond excited!
+**6/7/2019** - After 2 owners, 3 years, and 4 positions, today marked my last day with Warner Media Applied Analytics. I will forever be thankful for the opportunities that were made available to me by my wonderful colleagues during that time. I now look forward to taking on new challenges as a Computer Science PhD student at Johns Hopkins University. Starting in August, I will be working alongside the Center for Language and Speech Processing and the Malone Center for Engineering in Healthcare to create new clinical decision support tools. Beyond excited!
 
 **2/12/2019** - I've been promoted to Senior Quantitative Analyst. Grateful for the support that my co-workers have provided to get me to this point.
 
