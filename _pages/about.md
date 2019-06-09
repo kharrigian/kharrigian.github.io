@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my site! I typically try to post major research and life milestones on here. If you are looking for code from one of my projects, please feel free to reach out using my email on the sidebar. While most of my code is proprietary, I may be able to provide guidance or snippets on an individual basis. If you're in the greater Boston area, I'd be glad to meet up in person!
+Welcome to my site! I typically try to post major research and life milestones on here. If you are looking for code from one of my projects, please feel free to reach out using my email on the sidebar. While most of my code is proprietary, I may be able to provide guidance or snippets on an individual basis.
 
 ## About Me
 
@@ -16,13 +16,15 @@ Below are some facts about me. I'll leave it up to you to decide whether they're
 
 * Born in Chicago, IL and raised in Los Angeles, CA.
 * Earned a BS in Mathematics from Northeastern University in Boston, MA.
-* Currently a Senior Quantitative Analyst at Warner Media Applied Analytics, serving HBO, Warner Bros., and Turner Broadcasting.
-* Self-taught computer scientist, with current research focusing primarily on natural language processing, multi-modal machine learning, and anomaly detection.
+* Incoming Computer Science PhD Student at Johns Hopkins Univeristy. Advised by Mark Dredze. Research focuses on natural language processing and multi-modal machine learning for clinical decision support.
+* Previously worked as a Senior Quantitative Analyst at Warner Media Applied Analytics, serving HBO, Warner Bros., and Turner Broadcasting.
 * Fostered over 40 rescue Golden Retrievers before moving away to college. Cannot wait to adopt one of my own!
 * My favorite hobby is model railroading. You can find out more about my layout [<span style="color:blue">here</span>](https://kharrigian.github.io/hobbies/).
 
 
 ## News Alerts
+
+**6/7/2019** - After 2 owners, 3 years, and 4 positions, yesterday marked my last day with Warner Media Applied Analytics. I will forever be thankful for the opportunities that were made available to me by my wonderful colleagues during that time. I now look forward to taking on new challenges as a Computer Science PhD student at Johns Hopkins University. Starting in August, I will be working alongside the Center for Language and Speech Processing and the Malone Center for Engineering in Healthcare to create new clinical decision support tools. Beyond excited!
 
 **2/12/2019** - I've been promoted to Senior Quantitative Analyst. Grateful for the support that my co-workers have provided to get me to this point.
 
