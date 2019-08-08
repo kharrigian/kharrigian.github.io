@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my site! I typically try to post major research and life milestones on here. If you are looking for code from one of my projects, please feel free to reach out using my email on the sidebar. While most of my code is proprietary, I may be able to provide guidance or snippets on an individual basis.
+Welcome to my site! I typically try to post major research and life milestones on here. If you are looking for code from one of my projects, please feel free to reach out using my email on the sidebar. While some of my code is proprietary, I may be able to provide guidance or snippets on an individual basis.
 
 ## About Me
 
@@ -16,9 +16,8 @@ Below are some facts about me. I'll leave it up to you to decide whether they're
 
 * Born in Chicago, IL and raised in Los Angeles, CA.
 * Earned a BS in Mathematics from Northeastern University in Boston, MA.
-* Incoming Computer Science PhD Student at Johns Hopkins Univeristy. Advised by Mark Dredze. Research focuses on natural language processing and multi-modal machine learning for clinical decision support.
+* Currently a PhD Student in Computer Science at Johns Hopkins University. Advised by Professor Mark Dredze. My research focuses on natural language processing and multi-modal machine learning with applications in clinical decision support.
 * Previously worked as a Senior Quantitative Analyst at Warner Media Applied Analytics, serving HBO, Warner Bros., and Turner Broadcasting.
-* Fostered over 40 rescue Golden Retrievers before moving away to college. Cannot wait to adopt one of my own!
 * My favorite hobby is model railroading. You can find out more about my layout [<span style="color:blue">here</span>](https://kharrigian.github.io/hobbies/).
 
 
