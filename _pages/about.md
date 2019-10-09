@@ -8,20 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my site! I typically try to post major research and life milestones on here. If you are looking for code from one of my projects, please feel free to reach out using my email on the sidebar. While some of my code is proprietary, I may be able to provide guidance or snippets on an individual basis.
-
-## About Me
-
-Below are some facts about me. I'll leave it up to you to decide whether they're actually interesting :)
-
-* Born in Chicago, IL and raised in Los Angeles, CA.
-* Earned a BS in Mathematics from Northeastern University in Boston, MA.
-* Currently a PhD Student in Computer Science at Johns Hopkins University. Advised by Professor Mark Dredze. My research focuses on natural language processing and multi-modal machine learning with applications in clinical decision support.
-* Previously worked as a Senior Quantitative Analyst at Warner Media Applied Analytics, serving HBO, Warner Bros., and Turner Broadcasting.
-* My favorite hobby is model railroading. You can find out more about my layout [<span style="color:blue">here</span>](https://kharrigian.github.io/hobbies/).
-
+Keith Harrigian is a first-year PhD Student in Computer Science at Johns Hopkins University. With his advisor [<span style="color:blue">Mark Dredze</span>](https://www.cs.jhu.edu/~mdredze/), Keith researches computational and statistical methods for modeling multiple sources of heterogenous data. He is particularly interested in developing interpretable forms of multi-view and multi-modal learning to aid in clinical decision making. Prior to joining Johns Hopkins, Keith was a Senior Quantitative Analyst at [<span style="color:blue">Warner Media</span>](http://www.timewarner.com/) where he leveraged machine learning and natural language processing to mine social media data for applications to film and television marketing. He holds a B.S. in Mathematics with minors in Physics and Music from Northeastern University.
 
 ## News Alerts
+
+**8/29/2019** - I have officially started my pursuit of a PhD at Johns Hopkins. Reach out if you're ever in Baltimore!
 
 **6/7/2019** - After 2 owners, 3 years, and 4 positions, today marked my last day with Warner Media Applied Analytics. I will forever be thankful for the opportunities that were made available to me by my wonderful colleagues during that time. I now look forward to taking on new challenges as a Computer Science PhD student at Johns Hopkins University. Starting in August, I will be working alongside the Center for Language and Speech Processing and the Malone Center for Engineering in Healthcare to create new clinical decision support tools. Beyond excited!
 
