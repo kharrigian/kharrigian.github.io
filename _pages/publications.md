@@ -10,7 +10,7 @@ author_profile: true
 Last updated: 12/1/2018
 ### Peer-Reviewed Papers
 
-   "Geocoding Without Geotags: A Text-based Approach for reddit." **Harrigian, K.** *In Proceedings of the 4th Workshop on Noisy User-generated Text (EMNLP).* 2018. [[<span style="color:blue">Paper</span>](http://aclweb.org/anthology/W18-6103)] [[<span style="color:blue">Slides</span>](https://kharrigian.github.io/files/WNUT_Talk.pdf)]
+   "Geocoding Without Geotags: A Text-based Approach for reddit." **Harrigian, K.** *In Proceedings of the 4th Workshop on Noisy User-generated Text (EMNLP).* 2018. [[<span style="color:blue">Paper</span>](http://aclweb.org/anthology/W18-6103)] [[<span style="color:blue">Slides</span>](https://kharrigian.github.io/files/WNUT_Talk.pdf)] [[<span style="color:blue">Code</span>](https://github.com/kharrigian/smgeo)]
 
    "Recognizing Film Entities in Podcasts." Gundogdu, A.; Sanghvi, A.; **Harrigian, K.** *In Proceedings of the 1st Workshop on Machine Learning and Data Mining for Podcasts (KDD).* 2018. [[<span style="color:blue">Paper</span>](https://arxiv.org/abs/1809.08711)]
 ### Talks

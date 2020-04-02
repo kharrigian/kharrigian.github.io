@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Keith Harrigian is a first-year PhD Student in Computer Science at Johns Hopkins University. With his advisor [<span style="color:blue">Mark Dredze</span>](https://www.cs.jhu.edu/~mdredze/), Keith researches computational and statistical methods for modeling multiple sources of heterogenous data. He is particularly interested in developing interpretable forms of multi-view and multi-modal learning to aid in clinical decision making. Prior to joining Johns Hopkins, Keith was a Senior Quantitative Analyst at [<span style="color:blue">Warner Media</span>](http://www.timewarner.com/) where he leveraged machine learning and natural language processing to mine social media data for applications to film and television marketing. He holds a B.S. in Mathematics with minors in Physics and Music from Northeastern University.
+Keith Harrigian is a first-year PhD Student in Computer Science at Johns Hopkins University. With his advisor [<span style="color:blue">Mark Dredze</span>](https://www.cs.jhu.edu/~mdredze/), Keith researches computational and statistical methods for modeling multiple sources of heterogenous data. He is particularly interested in developing interpretable forms of multi-view and multi-modal learning to aid in clinical decision making. Prior to joining Johns Hopkins, Keith was a Senior Quantitative Analyst at [<span style="color:blue">Warner Media</span>](https://www.warnermediagroup.com) where he leveraged machine learning and natural language processing to mine social media data for applications to film and television marketing. He holds a B.S. in Mathematics with minors in Physics and Music from Northeastern University.
 
 ## News Alerts
+
+**4/2/2020** - To support ongoing research efforts related to understanding the spread of information about COVID-19, I have independently reproduced code, data, and models from "Geocoding without geotags: a text-based approach for reddit". Learn more at the Github repostiory [<span style="color:blue">here</span>](https://github.com/kharrigian/smgeo).
 
 **8/29/2019** - I have officially started my pursuit of a PhD at Johns Hopkins. Reach out if you're ever in Baltimore!
 
