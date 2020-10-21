@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Keith Harrigian is a first-year PhD Student in Computer Science at Johns Hopkins University. With his advisor [<span style="color:blue">Mark Dredze</span>](https://www.cs.jhu.edu/~mdredze/), Keith researches computational and statistical methods for modeling natural language. He is particularly interested in developing interpretable forms of machine learning to aid in clinical decision making for mental health. Prior to joining Johns Hopkins, Keith was a Senior Quantitative Analyst at [<span style="color:blue">Warner Media</span>](https://www.warnermediagroup.com) where he leveraged machine learning and natural language processing to mine social media data for applications to film and television marketing. He holds a B.S. in Mathematics with minors in Physics and Music from Northeastern University.
+Keith Harrigian is a second-year PhD Student in Computer Science at Johns Hopkins University. With his advisor [<span style="color:blue">Mark Dredze</span>](https://www.cs.jhu.edu/~mdredze/), Keith researches computational and statistical methods for modeling natural language. He is particularly interested in developing interpretable forms of machine learning to aid in clinical decision making for mental health. Prior to joining Johns Hopkins, Keith was a Senior Quantitative Analyst at [<span style="color:blue">Warner Media</span>](https://www.warnermediagroup.com) where he leveraged machine learning and natural language processing to mine social media data for applications to film and television marketing. He holds a B.S. in Mathematics with minors in Physics and Music from Northeastern University.
 
 Interested in learning more about my work? Check out my [<span style="color:blue">publications</span>](kharrigian.github.io/publications/) and [<span style="color:blue">projects</span>](kharrigian.github.io/projects/)!
 
 ## News Alerts
+
+**10/05/2020** - New paper alert: "Do Models of Mental Health Based on Social Media Generalize?" will be included in *Findings of ACL: EMNLP 2020*. Code available [<span style="color:blue">here</span>](https://github.com/kharrigian/emnlp-2020-mental-health-generalization).
 
 **4/2/2020** - To support ongoing research efforts related to understanding the spread of information about COVID-19, I have independently reproduced code, data, and models from "Geocoding without geotags: a text-based approach for reddit". Learn more at the Github repository [<span style="color:blue">here</span>](https://github.com/kharrigian/smgeo).
 
