@@ -14,7 +14,7 @@ Interested in learning more about my work? Check out my [<span style="color:blue
 
 ## News Alerts
 
-**10/05/2020** - New paper alert: "Do Models of Mental Health Based on Social Media Generalize?" will be included in *Findings of ACL: EMNLP 2020*. Code available [<span style="color:blue">here</span>](https://github.com/kharrigian/emnlp-2020-mental-health-generalization).
+**10/05/2020** - New paper alert: "Do Models of Mental Health Based on Social Media Generalize?" will be included in *Findings of ACL: EMNLP 2020*. [[<span style="color:blue">Paper</span>]](http://www.cs.jhu.edu/~mdredze/publications/2020_emnlp_mental_health_domain_transfer.pdf) [[<span style="color:blue">[Code]</span>]](https://github.com/kharrigian/emnlp-2020-mental-health-generalization) 
 
 **4/2/2020** - To support ongoing research efforts related to understanding the spread of information about COVID-19, I have independently reproduced code, data, and models from "Geocoding without geotags: a text-based approach for reddit". Learn more at the Github repository [<span style="color:blue">here</span>](https://github.com/kharrigian/smgeo).
 
