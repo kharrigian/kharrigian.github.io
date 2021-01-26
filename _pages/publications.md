@@ -10,6 +10,8 @@ author_profile: true
 Last updated: 10/26/2020
 
 ### Peer-Reviewed Papers
+
+   "Gender and Racial Fairness in Depression Research using Social Media." Aguirre, C.; **Harrigian, K.**; Dredze, M. *In Proceedings of the 16th Conference of the European Chapter of the ACL (EACL).* 2021.
   
    "Do Models of Mental Health Based on Social Media Generalize?" **Harrigian, K.**; Aguirre, C.; Dredze, M. *Findings of ACL: EMNLP 2020.* 2020. [[<span style="color:blue">Paper</span>]](http://www.cs.jhu.edu/~mdredze/publications/2020_emnlp_mental_health_domain_transfer.pdf) [[<span style="color:blue">Code</span>]](https://github.com/kharrigian/emnlp-2020-mental-health-generalization) 
 
