@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Keith Harrigian is a second-year PhD Student in Computer Science at Johns Hopkins University. With his advisor [<span style="color:blue">Mark Dredze</span>](https://www.cs.jhu.edu/~mdredze/), Keith researches computational and statistical methods for modeling natural language. He is particularly interested in developing interpretable forms of machine learning to aid in clinical decision making for mental health. Prior to joining Johns Hopkins, Keith was a Senior Quantitative Analyst at [<span style="color:blue">Warner Media</span>](https://www.warnermediagroup.com) where he leveraged machine learning and natural language processing to mine social media data for applications to film and television marketing. He holds a B.S. in Mathematics with minors in Physics and Music from Northeastern University.
+Keith Harrigian is a second-year PhD Student in Computer Science at Johns Hopkins University. With his advisor [<span style="color:blue">Mark Dredze</span>](https://www.cs.jhu.edu/~mdredze/), Keith researches computational and statistical methods for modeling natural language. He is particularly interested in developing interpretable forms of machine learning to aid in clinical decision making and public health research. Prior to joining Johns Hopkins, Keith was a Senior Quantitative Analyst at [<span style="color:blue">Warner Media</span>](https://www.warnermediagroup.com) where he leveraged machine learning and natural language processing to mine social media data for applications to film and television marketing. He holds a B.S. in Mathematics with minors in Physics and Music from Northeastern University.
 
 Interested in learning more about my work? Check out my [<span style="color:blue">publications</span>](kharrigian.github.io/publications/) and [<span style="color:blue">projects</span>](kharrigian.github.io/projects/)!
 
 ## News Alerts
+
+**4/21/2021** - New paper alert: "Gender and Racial Fairness in Depression Research using Social Media" will be included in *Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics*. [[<span style="color:blue">Paper</span>]](https://www.aclweb.org/anthology/2021.eacl-main.256/)
 
 **10/05/2020** - New paper alert: "Do Models of Mental Health Based on Social Media Generalize?" will be included in *Findings of ACL: EMNLP 2020*. [[<span style="color:blue">Paper</span>]](http://www.cs.jhu.edu/~mdredze/publications/2020_emnlp_mental_health_domain_transfer.pdf) [[<span style="color:blue">Code</span>]](https://github.com/kharrigian/emnlp-2020-mental-health-generalization) 
 
@@ -20,7 +22,7 @@ Interested in learning more about my work? Check out my [<span style="color:blue
 
 **8/29/2019** - I have officially started my pursuit of a PhD at Johns Hopkins. Reach out if you're ever in Baltimore!
 
-**6/7/2019** - After 2 owners, 3 years, and 4 positions, today marked my last day with Warner Media Applied Analytics. I will forever be thankful for the opportunities that were made available to me by my wonderful colleagues during that time. I now look forward to taking on new challenges as a Computer Science PhD student at Johns Hopkins University. Starting in August, I will be working alongside the Center for Language and Speech Processing and the Malone Center for Engineering in Healthcare to create new clinical decision support tools. Beyond excited!
+**6/7/2019** - After 2 owners, 3 years, and 4 positions, today marked my last day with Warner Media Applied Analytics. I will forever be thankful for the opportunities that were made available to me by my wonderful colleagues during that time. I now look forward to taking on new challenges as a Computer Science PhD student at Johns Hopkins University. Starting in August, I will be working alongside the Center for Language and Speech Processing and the Malone Center for Engineering in Healthcare to create new clinical decision support tools.
 
 **2/12/2019** - I've been promoted to Senior Quantitative Analyst. Grateful for the support that my co-workers have provided to get me to this point.
 
