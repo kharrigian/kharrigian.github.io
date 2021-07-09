@@ -11,9 +11,9 @@ Last updated: 04/21/2021
 
 ### Peer-Reviewed Papers
 
-   "On the State of Social Media Data for Mental Health Research." **Harrigian, K.**; Aguirre, C.; Dredze, M. *In Proceedings of the 2021 Computational Linguistics and Clinical Psychology Workshop.* 2021. [[<span style="color:blue">Preprint</span>](https://arxiv.org/abs/2011.05233)]
+   "On the State of Social Media Data for Mental Health Research." **Harrigian, K.**; Aguirre, C.; Dredze, M. *In Proceedings of the 2021 Computational Linguistics and Clinical Psychology Workshop.* 2021. [[<span style="color:blue">Paper</span>](https://aclanthology.org/2021.clpsych-1.2/)] [[<span style="color:blue">Data</span>]](https://github.com/kharrigian/mental-health-datasets) 
 
-   "Towards Understanding the Role of Demographics in Deploying Social Media-Based Mental Health Surveillance Models." Sherman, E.; **Harrigian, K.**; Aguirre, C.; Dredze, M. *In Proceedings of the 2021 Computational Linguistics and Clinical Psychology Workshop.* 2021. In Print. 
+   "Towards Understanding the Role of Demographics in Deploying Social Media-Based Mental Health Surveillance Models." Sherman, E.; **Harrigian, K.**; Aguirre, C.; Dredze, M. *In Proceedings of the 2021 Computational Linguistics and Clinical Psychology Workshop.* 2021. [[<span style="color:blue">Paper</span>](https://aclanthology.org/2021.clpsych-1.23/)] [[<span style="color:blue">Code</span>]](https://github.com/esherma/CLPsych2021_Gender_and_Depression) 
 
    "Gender and Racial Fairness in Depression Research using Social Media." Aguirre, C.; **Harrigian, K.**; Dredze, M. *In Proceedings of the 16th Conference of the European Chapter of the ACL (EACL).* 2021. [[<span style="color:blue">Paper</span>]](https://www.aclweb.org/anthology/2021.eacl-main.256/)
   

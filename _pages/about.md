@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Keith Harrigian is a second-year PhD Student in Computer Science at Johns Hopkins University. With his advisor [<span style="color:blue">Mark Dredze</span>](https://www.cs.jhu.edu/~mdredze/), Keith researches computational and statistical methods for modeling natural language. He is particularly interested in developing interpretable forms of machine learning to aid in clinical decision making and public health research. Prior to joining Johns Hopkins, Keith was a Senior Quantitative Analyst at [<span style="color:blue">Warner Media</span>](https://www.warnermediagroup.com) where he leveraged machine learning and natural language processing to mine social media data for applications to film and television marketing. He holds a B.S. in Mathematics with minors in Physics and Music from Northeastern University.
+Keith Harrigian is a PhD Student in Computer Science at Johns Hopkins University. With his advisor [<span style="color:blue">Mark Dredze</span>](https://www.cs.jhu.edu/~mdredze/), Keith researches computational and statistical methods for modeling natural language. He is particularly interested in developing interpretable forms of machine learning to aid in clinical decision making and public health research. Prior to joining Johns Hopkins, Keith was a Senior Quantitative Analyst at [<span style="color:blue">Warner Media</span>](https://www.warnermediagroup.com) where he leveraged machine learning and natural language processing to mine social media data for applications to film and television marketing. He holds a B.S. in Mathematics with minors in Physics and Music from Northeastern University.
 
 Interested in learning more about my work? Check out my [<span style="color:blue">publications</span>](kharrigian.github.io/publications/) and [<span style="color:blue">projects</span>](kharrigian.github.io/projects/)!
 
 ## News Alerts
+
+**6/11/2021** - New paper alert: We presented two papers at CLPsych detailing some of the issues with social media data for mental health. Check out our insights regarding fairness of machine learning classifiers as a function of self-reported gender [<span style="color:blue">here</span>](https://aclanthology.org/2021.clpsych-1.23/) and insights regarding data access/representation  [<span style="color:blue">here</span>](https://aclanthology.org/2021.clpsych-1.2/).
 
 **4/21/2021** - New paper alert: "Gender and Racial Fairness in Depression Research using Social Media" will be included in *Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics*. [[<span style="color:blue">Paper</span>]](https://www.aclweb.org/anthology/2021.eacl-main.256/)
 
