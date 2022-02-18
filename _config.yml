@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Keith Harrigian"
 title_separator          : "-"
 name                     : &name "Keith Harrigian"
-description              : &description "Research and musings from Keith Harrigian"
+description              : &description "Researchfrom Keith Harrigian"
 url                      : https://kharrigian.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kharrigian/kharrigian.github.io"
@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Interested in using ML and NLP to understand human behavior."
   location         : "New York, NY"
-  employer         :
-  googlescholar    :
+  employer         : "Johns Hopkins University | Unforged"
+  googlescholar    : "https://scholar.google.com/citations?user=Ppsp9foAAAAJ&hl=en"
   email            : "kharrigian@jhu.edu"
   uri              :
   bitbucket        :

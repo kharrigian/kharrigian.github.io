@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Keith Harrigian is a PhD Student in Computer Science at Johns Hopkins University. With his advisor [<span style="color:blue">Mark Dredze</span>](https://www.cs.jhu.edu/~mdredze/), Keith researches computational and statistical methods for modeling natural language. He is particularly interested in developing interpretable forms of machine learning to aid in clinical decision making and public health research. Prior to joining Johns Hopkins, Keith was a Senior Quantitative Analyst at [<span style="color:blue">Warner Media</span>](https://www.warnermediagroup.com) where he leveraged machine learning and natural language processing to mine social media data for applications to film and television marketing. He holds a B.S. in Mathematics with minors in Physics and Music from Northeastern University.
+Keith Harrigian is a PhD Student in Computer Science at Johns Hopkins University. With his advisor [<span style="color:blue">Mark Dredze</span>](https://www.cs.jhu.edu/~mdredze/), Keith researches computational and statistical methods for modeling natural language. He is particularly interested in developing interpretable forms of machine learning to aid in clinical decision making and public health research. Prior to joining Johns Hopkins, Keith was a Senior Quantitative Analyst at [<span style="color:blue">Warner Media</span>](https://www.warnermediagroup.com) where he leveraged machine learning and natural language processing to mine social media data for applications to film and television marketing. He holds a M.S.E in Computer Science from Johns Hopkins University and a B.S. in Mathematics with minors in Physics and Music from Northeastern University. You can learn more about his past and ongoing work [<span style="color:blue">here</span>](kharrigian.github.io/publications/).
 
-Interested in learning more about my work? Check out my [<span style="color:blue">publications</span>](kharrigian.github.io/publications/) and [<span style="color:blue">projects</span>](kharrigian.github.io/projects/)!
+Outside of his academic research, Keith leads data science and machine learning efforts at [<span style="color:blue">Unforged</span>](https://www.kidzabout.net). If you're interested in contributing to the future of digital mental wellness for teenagers and adolescents, please reach out. We're always looking for passionate developers and data scientists!
 
-## News Alerts
+## Research Alerts
 
 **6/11/2021** - New paper alert: We presented two papers at CLPsych detailing some of the issues with social media data for mental health. Check out our insights regarding fairness of machine learning classifiers as a function of self-reported gender [<span style="color:blue">here</span>](https://aclanthology.org/2021.clpsych-1.23/) and insights regarding data access/representation  [<span style="color:blue">here</span>](https://aclanthology.org/2021.clpsych-1.2/).
 
