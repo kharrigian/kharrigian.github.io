@@ -11,6 +11,8 @@ Last updated: 04/21/2021
 
 ### Peer-Reviewed Papers
 
+   "The Problem of Semantic Shift in Longitudinal Monitoring of Social Media: A Case Study on Mental Health During the COVID-19 Pandemic." **Harrigian, K.** and Dredze, M. *In Proceedings of the 14th ACM Web Science Conference.* 2022.  [[<span style="color:blue">Preprint</span>](https://kharrigian.github.io/files/SemanticShift_WebSci2022.pdf)]
+
    "On the State of Social Media Data for Mental Health Research." **Harrigian, K.**; Aguirre, C.; Dredze, M. *In Proceedings of the 2021 Computational Linguistics and Clinical Psychology Workshop.* 2021. [[<span style="color:blue">Paper</span>](https://aclanthology.org/2021.clpsych-1.2/)] [[<span style="color:blue">Data</span>]](https://github.com/kharrigian/mental-health-datasets) 
 
    "Towards Understanding the Role of Demographics in Deploying Social Media-Based Mental Health Surveillance Models." Sherman, E.; **Harrigian, K.**; Aguirre, C.; Dredze, M. *In Proceedings of the 2021 Computational Linguistics and Clinical Psychology Workshop.* 2021. [[<span style="color:blue">Paper</span>](https://aclanthology.org/2021.clpsych-1.23/)] [[<span style="color:blue">Code</span>]](https://github.com/esherma/CLPsych2021_Gender_and_Depression) 
