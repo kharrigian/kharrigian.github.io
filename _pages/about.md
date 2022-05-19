@@ -14,7 +14,7 @@ Outside of his academic research, Keith leads data science and machine learning 
 
 ## Research Alerts
 
-**4/17/2022** - New paper alert: "Then and Now: Quantifying the Longitudinal Validity of Self-Disclosed Depression Diagnoses" has been accepted to CLPsych. Learn about some of the pernicious biases that arise when using diagnosis self-disclosures to annotate mental health status in the pre-print available [<span style="color:blue">here</span>](https://kharrigian.github.io/files/CLPsychThenAndNow.pdf).
+**5/17/2022** - New paper alert: "Then and Now: Quantifying the Longitudinal Validity of Self-Disclosed Depression Diagnoses" has been accepted to CLPsych. Learn about some of the pernicious biases that arise when using diagnosis self-disclosures to annotate mental health status in the pre-print available [<span style="color:blue">here</span>](https://kharrigian.github.io/files/CLPsychThenAndNow.pdf).
 
 **3/30/2022** - New paper alert: Our paper "The Problem of Semantic Shift in Longitudinal Monitoring of Social Media" has been accepted to the [<span style="color:blue">14th ACM Web Science Conference</span>](https://websci22.webscience.org). Read the open-access paper [<span style="color:blue">here</span>](https://kharrigian.github.io/files/SemanticShift_WebSci2022.pdf).
 
