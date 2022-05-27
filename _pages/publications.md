@@ -11,7 +11,7 @@ Last updated: 05/19/2022
 
 ### Peer-Reviewed Papers
 
-   "Then and Now: Quantifying the Longitudinal Validity of Self-Disclosed Depression Diagnoses." **Harrigian, K.** and Dredze, M. *In Proceedings of the 2022 Computational Linguistics and Clinical Psychology Workshop (CLPsych)*. 2022. [[<span style="color:blue">Preprint</span>](https://kharrigian.github.io/files/CLPsychThenAndNow.pdf)]
+   "Then and Now: Quantifying the Longitudinal Validity of Self-Disclosed Depression Diagnoses." **Harrigian, K.** and Dredze, M. *In Proceedings of the 2022 Computational Linguistics and Clinical Psychology Workshop (CLPsych)*. 2022. [[<span style="color:blue">Paper</span>](https://kharrigian.github.io/files/CLPsychThenAndNow.pdf)]
 
    "The Problem of Semantic Shift in Longitudinal Monitoring of Social Media: A Case Study on Mental Health During the COVID-19 Pandemic." **Harrigian, K.** and Dredze, M. *In Proceedings of the 14th ACM Web Science Conference.* 2022.  [[<span style="color:blue">Paper</span>](https://kharrigian.github.io/files/SemanticShift_WebSci2022.pdf)]
 
