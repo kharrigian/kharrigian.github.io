@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [<span style="color:blue">here</span>](https://kharrigian.github.io/files/HarrigianCV.pdf). It was last updated on 04/21/2021.
+You can find my CV [<span style="color:blue">here</span>](https://kharrigian.github.io/files/HarrigianCV.pdf). It was last updated on 06/02/2022.
