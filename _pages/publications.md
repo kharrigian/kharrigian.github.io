@@ -21,7 +21,7 @@ Last updated: 05/19/2022
 
    "Gender and Racial Fairness in Depression Research using Social Media." Aguirre, C.; **Harrigian, K.**; Dredze, M. *In Proceedings of the 16th Conference of the European Chapter of the ACL (EACL).* 2021. [[<span style="color:blue">Paper</span>]](https://www.aclweb.org/anthology/2021.eacl-main.256/)
   
-   "Do Models of Mental Health Based on Social Media Generalize?" **Harrigian, K.**; Aguirre, C.; Dredze, M. *Findings of ACL: EMNLP 2020.* 2020. [[<span style="color:blue">Paper</span>]](http://www.cs.jhu.edu/~mdredze/publications/2020_emnlp_mental_health_domain_transfer.pdf) [[<span style="color:blue">Code</span>]](https://github.com/kharrigian/emnlp-2020-mental-health-generalization) 
+   "Do Models of Mental Health Based on Social Media Generalize?" **Harrigian, K.**; Aguirre, C.; Dredze, M. *Findings of ACL: EMNLP.* 2020. [[<span style="color:blue">Paper</span>]](http://www.cs.jhu.edu/~mdredze/publications/2020_emnlp_mental_health_domain_transfer.pdf) [[<span style="color:blue">Code</span>]](https://github.com/kharrigian/emnlp-2020-mental-health-generalization) 
 
    "Geocoding Without Geotags: A Text-based Approach for reddit." **Harrigian, K.** *In Proceedings of the 4th Workshop on Noisy User-generated Text (EMNLP).* 2018. [[<span style="color:blue">Paper</span>](http://aclweb.org/anthology/W18-6103)] [[<span style="color:blue">Slides</span>](https://kharrigian.github.io/files/WNUT_Talk.pdf)] [[<span style="color:blue">Code</span>](https://github.com/kharrigian/smgeo)]
 
