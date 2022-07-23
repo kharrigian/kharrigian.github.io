@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Keith Harrigian"
   avatar           : "profile.png"
-  bio              : "Interested in using ML and NLP to understand human behavior."
+  bio              : "Robust machine learning for healthcare."
   location         : "New York, NY"
-  employer         : "Johns Hopkins University | Unforged"
+  employer         : "Johns Hopkins | Unforged"
   googlescholar    : "https://scholar.google.com/citations?user=Ppsp9foAAAAJ&hl=en"
   email            : "kharrigian@jhu.edu"
   uri              :
