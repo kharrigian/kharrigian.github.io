@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-On this page, you will find projects I have worked on whose code/data is in a publicly releasable state. Feel free to check out my Github profile for other work-in-progress projects. 
+On this page, you will find miscellaneous projects I have worked on whose code/data is in a publicly releasable state. Feel free to check out my Github profile for other work-in-progress projects. Research codebases can be found alongside their respective [<span style="color:blue">publications</span>](kharrigian.github.io/publications/)
 
 ## Geolocation Inference for Reddit
 
