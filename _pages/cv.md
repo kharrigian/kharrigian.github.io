@@ -9,4 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [<span style="color:blue">here</span>](https://kharrigian.github.io/files/HarrigianCV.pdf). It was last updated on 10/01/2022.
+*Last Update: 10/01/2022*
+
+You can find a summary of my past work and ongoing projects [<span style="color:blue">here</span>](https://kharrigian.github.io/files/HarrigianCVOnePage.pdf).
+
+If you are interested in learning even more about me, you can find my full CV [<span style="color:blue">here</span>](https://kharrigian.github.io/files/HarrigianCV.pdf).
+
