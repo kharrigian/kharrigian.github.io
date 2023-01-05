@@ -13,10 +13,6 @@ On this page, you will find miscellaneous projects I have worked on whose code/d
 
 Based on my 2018 W-NUT [<span style="color:blue">paper</span>](http://aclweb.org/anthology/W18-6103), I have open-sourced code, models, and data to infer the home location of Reddit users. While the repository is freely-available, there are certain restrictions on its usage. Please read through the README and License [<span style="color:blue">here</span>](https://github.com/kharrigian/smgeo) to see if this tool will work for you!
 
-## Pushshift.io API Wrapper
-
-The [<span style="color:blue">pushshift.io project</span>](https://pushshift.io) has served as a valuable resource to researchers and industry practitioners alike, offering nearly complete access to public-facing Reddit data. One of the primary interfaces to the backend database is the Python package [<span style="color:blue">PSAW</span>](https://pypi.org/project/psaw/). While this package is extremely useful for handling low-level complexities of the pushshift.io database (e.g. pagination), it lacks some of the high-level abstractions that are commonly of interest when retrieving and manipulating Reddit data. To lower the barrier to entry of analyzing well-formatted Reddit data, I have open-sourced my personal library of utility functions for `PSAW` (and `PRAW`) [<span style="color:blue">here</span>](https://github.com/kharrigian/retriever).
-
 ## Mental Health Datasets
 
 There has been tremendous interest in using social media to monitor individual- and population-level mental health. At the forefront of this research is clean, clinically-relevant data. To help researchers interested in this area identify the dataset that is appropriate for answering their research questions, I have compiled and annotated a large directory of existing datasets [<span style="color:blue">here</span>](https://github.com/kharrigian/mental-health-datasets). This directory will be updated over time as new literature is published. If you are interested in contributing to this resource, please reach out using one of the contact mechanisms in the sidebar.
