@@ -16,6 +16,8 @@ Outside of his academic research, Keith leads data science and machine learning 
 
 ## Research Alerts
 
+**March 2023** - New paper alert: "Health Disparities in Lapses in Diabetic Retinopathy Care" has been accepted by *Ophthalmology Science*. This study uses NLP to augment information contained within the EHR and provides further evidence of (in)equality in the American healthcare system. Find the preprint [<span style="color:blue">here</span>](https://doi.org/10.1016/j.xops.2023.100295).
+
 **May 2022** - New paper alert: "Then and Now: Quantifying the Longitudinal Validity of Self-Disclosed Depression Diagnoses" has been accepted to CLPsych. Learn about some of the pernicious biases that arise when using diagnosis self-disclosures to annotate mental health status in the paper available [<span style="color:blue">here</span>](https://kharrigian.github.io/files/CLPsychThenAndNow.pdf).
 
 **March 2022** - New paper alert: Our paper "The Problem of Semantic Shift in Longitudinal Monitoring of Social Media" has been accepted to the [<span style="color:blue">14th ACM Web Science Conference</span>](https://websci22.webscience.org). Read the open-access paper [<span style="color:blue">here</span>](https://kharrigian.github.io/files/SemanticShift_WebSci2022.pdf).

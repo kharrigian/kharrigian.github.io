@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+## 2023
+
+   "Health Disparities in Lapses in Diabetic Retinopathy Care." Cai, C.X.; Tran, D.; Tang, T.; Liou, W.; **Harrigian, K.**; Scott, E.; Nagy, P.; Kharrazi, H.; Crews, D.C.; Zeger, S.L. *Ophthalmology Science*. [[<span style="color:blue">Paper In Press</span>](https://doi.org/10.1016/j.xops.2023.100295)]
+
 ## 2022
 
    "Then and Now: Quantifying the Longitudinal Validity of Self-Disclosed Depression Diagnoses." **Harrigian, K.** and Dredze, M. *In Proceedings of the 2022 Computational Linguistics and Clinical Psychology Workshop (CLPsych)*. [[<span style="color:blue">Paper</span>](https://kharrigian.github.io/files/CLPsychThenAndNow.pdf)] [[<span style="color:blue">Slides</span>](https://kharrigian.github.io/files/CLPsychThenAndNow_Deck.pdf)]
