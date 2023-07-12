@@ -16,6 +16,10 @@ Outside of his academic research, Keith leads data science and machine learning 
 
 ## Research Alerts
 
+**July 2023** - New paper alert: "Characterization of Stigmatizing Language in Medical Records" has been accepted to appear in the main proceedings of ACL 2023. We examine what makes harmful language in clinical documentation different from other forms of abusive language in more widely-studied domains. Paper can be found [<span style="color:blue">here</span>](https://aclanthology.org/2023.acl-short.28/). Code, data, and models can be found [<span style="color:blue">here</span>](https://github.com/kharrigian/ehr-stigma).
+
+**June 2023** - I'll be giving the closing keynote at the 1st International Workshop on Ethics and Bias of Artificial Intelligence in Clinical Applications. Incredibly grateful for the opportunity! Slides for the presentation on stigmatizing language in medical records can be found [<span style="color:blue">here</span>](https://docs.google.com/presentation/d/1jjYE1fcXcLqcSfTbumrdA5iNock42ltAYy7Uzh7CfSc/edit?usp=sharing).
+
 **March 2023** - New paper alert: "Health Disparities in Lapses in Diabetic Retinopathy Care" has been accepted by *Ophthalmology Science*. This study uses NLP to augment information contained within the EHR and provides further evidence of (in)equality in the American healthcare system. Find the preprint [<span style="color:blue">here</span>](https://doi.org/10.1016/j.xops.2023.100295).
 
 **May 2022** - New paper alert: "Then and Now: Quantifying the Longitudinal Validity of Self-Disclosed Depression Diagnoses" has been accepted to CLPsych. Learn about some of the pernicious biases that arise when using diagnosis self-disclosures to annotate mental health status in the paper available [<span style="color:blue">here</span>](https://kharrigian.github.io/files/CLPsychThenAndNow.pdf).

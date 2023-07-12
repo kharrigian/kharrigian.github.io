@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-*Last Update: 10/01/2022*
+*Last Update: 7/12/2023*
 
 You can find a summary of my past work and ongoing projects [<span style="color:blue">here</span>](https://kharrigian.github.io/files/HarrigianCVOnePage.pdf).
 

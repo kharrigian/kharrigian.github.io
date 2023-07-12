@@ -8,8 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## 2023
+   
+   "Characterization of Stigmatizing Language in Medical Records." **Harrigian, K.**; Zirikly, A., Chee, B., Ahmad, A., Links, AR., Saha, S., Beach, MC., Dredze, M. *In Proceedings of the 61st Meeting of the Association of Computational Linguistics (ACL)*. [[<span style="color:blue">Paper</span>](https://aclanthology.org/2023.acl-short.28/)] [[<span style="color:blue">Code</span>](https://github.com/kharrigian/ehr-stigma)]
 
-   "Health Disparities in Lapses in Diabetic Retinopathy Care." Cai, C.X.; Tran, D.; Tang, T.; Liou, W.; **Harrigian, K.**; Scott, E.; Nagy, P.; Kharrazi, H.; Crews, D.C.; Zeger, S.L. *Ophthalmology Science*. [[<span style="color:blue">Paper In Press</span>](https://doi.org/10.1016/j.xops.2023.100295)]
+   "Health Disparities in Lapses in Diabetic Retinopathy Care." Cai, C.X.; Tran, D.; Tang, T.; Liou, W.; **Harrigian, K.**; Scott, E.; Nagy, P.; Kharrazi, H.; Crews, D.C.; Zeger, S.L. *Ophthalmology Science*. [[<span style="color:blue">Paper</span>](https://doi.org/10.1016/j.xops.2023.100295)]
 
 ## 2022
 
