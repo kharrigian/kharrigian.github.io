@@ -14,11 +14,15 @@ Prior to joining Johns Hopkins, Keith was a Senior Quantitative Analyst at [<spa
 
 Outside of his academic research, Keith leads data science and machine learning efforts at [<span style="color:blue">Unforged</span>](https://www.kidzabout.net). If you're interested in contributing to the future of digital mental wellness for teenagers and adolescents, please reach out. We're actively looking for passionate developers and data scientists!
 
+As of June 5, 2023, I am currently on leave from JHU, working as a machine learning intern at [<span style="color:blue">Netflix</span>](https://www.netflix.com).
+
 ## Research Alerts
 
 **July 2023** - New paper alert: "Characterization of Stigmatizing Language in Medical Records" has been accepted to appear in the main proceedings of ACL 2023. We examine what makes harmful language in clinical documentation different from other forms of abusive language in more widely-studied domains. Paper can be found [<span style="color:blue">here</span>](https://aclanthology.org/2023.acl-short.28/). Code, data, and models can be found [<span style="color:blue">here</span>](https://github.com/kharrigian/ehr-stigma).
 
 **June 2023** - I'll be giving the closing keynote at the 1st International Workshop on Ethics and Bias of Artificial Intelligence in Clinical Applications. Incredibly grateful for the opportunity! Slides for the presentation on stigmatizing language in medical records can be found [<span style="color:blue">here</span>](https://docs.google.com/presentation/d/1jjYE1fcXcLqcSfTbumrdA5iNock42ltAYy7Uzh7CfSc/edit?usp=sharing).
+
+**June 2023** - I've started a 3-month internship at [<span style="color:blue">Netflix</span>](https://www.netflix.com). I'll be investigating ways to leverage audio-visual representations to improve audience size forecasting. 
 
 **March 2023** - New paper alert: "Health Disparities in Lapses in Diabetic Retinopathy Care" has been accepted by *Ophthalmology Science*. This study uses NLP to augment information contained within the EHR and provides further evidence of (in)equality in the American healthcare system. Find the preprint [<span style="color:blue">here</span>](https://doi.org/10.1016/j.xops.2023.100295).
 
