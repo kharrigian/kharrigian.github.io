@@ -8,8 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## 2023
+
+   "Managing HIV During the COVID-19 Pandemic: A Study of Help-Seeking Behaviors on a Social Media Forum." Ayers, J.W.; Zhu, Z.; **Harrigian, K.**; Wightman, G.P.; Dredze, M.; Strathdee, A.; Smith, D.M. *AIDS and Behavior*. [[<span style="color:blue">Paper</span>](https://link.springer.com/article/10.1007/s10461-023-04134-9)]
    
-   "Characterization of Stigmatizing Language in Medical Records." **Harrigian, K.**; Zirikly, A., Chee, B., Ahmad, A., Links, AR., Saha, S., Beach, MC., Dredze, M. *In Proceedings of the 61st Meeting of the Association of Computational Linguistics (ACL)*. [[<span style="color:blue">Paper</span>](https://aclanthology.org/2023.acl-short.28/)] [[<span style="color:blue">Code</span>](https://github.com/kharrigian/ehr-stigma)]
+   "Characterization of Stigmatizing Language in Medical Records." **Harrigian, K.**; Zirikly, A.; Chee, B.; Ahmad, A.; Links, AR.; Saha, S.; Beach, MC.; Dredze, M. *In Proceedings of the 61st Meeting of the Association of Computational Linguistics (ACL)*. [[<span style="color:blue">Paper</span>](https://aclanthology.org/2023.acl-short.28/)] [[<span style="color:blue">Code</span>](https://github.com/kharrigian/ehr-stigma)]
 
    "Health Disparities in Lapses in Diabetic Retinopathy Care." Cai, C.X.; Tran, D.; Tang, T.; Liou, W.; **Harrigian, K.**; Scott, E.; Nagy, P.; Kharrazi, H.; Crews, D.C.; Zeger, S.L. *Ophthalmology Science*. [[<span style="color:blue">Paper</span>](https://doi.org/10.1016/j.xops.2023.100295)]
 
