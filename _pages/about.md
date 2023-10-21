@@ -16,7 +16,7 @@ Outside of his academic research, Keith leads data science and machine learning 
 
 ## Research Alerts
 
-**October 2023** - I was invited to speak with the Alzheimer's Association's AI working group about opportunities and challenges for AI in the fight against healthcare disparities. Slides available [<span style="color:blue">here</span>](https://docs.google.com/presentation/d/1x_ktFA1IrzptLOtSUPEEYBew5hHPluLHr2cV2vVCv8c/edit?usp=sharing).
+**October 2023** - I was invited to speak with the [<span style="color:blue">Alzheimer's Association's</span>](https://www.alz.org) AI working group about opportunities and challenges for AI in the fight against healthcare disparities. Slides available [<span style="color:blue">here</span>](https://docs.google.com/presentation/d/1x_ktFA1IrzptLOtSUPEEYBew5hHPluLHr2cV2vVCv8c/edit?usp=sharing).
 
 **July 2023** - New paper alert: "Characterization of Stigmatizing Language in Medical Records" has been accepted to appear in the main proceedings of ACL 2023. We examine what makes harmful language in clinical documentation different from other forms of abusive language in more widely-studied domains. Paper can be found [<span style="color:blue">here</span>](https://aclanthology.org/2023.acl-short.28/). Code, data, and models can be found [<span style="color:blue">here</span>](https://github.com/kharrigian/ehr-stigma).
 
