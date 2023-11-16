@@ -16,6 +16,8 @@ Outside of his academic research, Keith leads data science and machine learning 
 
 ## Research Alerts
 
+**November 2023** - New paper alert: "An Eye on Clinical BERT: Investigating Language Model Generalization for Diabetic Eye Disease Phenotyping" will be presented at [<span style="color:blue">ML4H</span>](https://ml4health.github.io/2023/) in New Orleans next month. Our study tempers recent claims that language models pretrained on clinical data are necessary for clinical NLP tasks and highlights the importance of not treating clinical language data as a single homogeneous domain. Find the paper [<span style="color:blue">here</span>](https://arxiv.org/abs/2311.08687).
+
 **October 2023** - I was invited to speak with the [<span style="color:blue">Alzheimer's Association's</span>](https://www.alz.org) AI working group about opportunities and challenges for AI in the fight against healthcare disparities. Slides available [<span style="color:blue">here</span>](https://docs.google.com/presentation/d/1x_ktFA1IrzptLOtSUPEEYBew5hHPluLHr2cV2vVCv8c/edit?usp=sharing).
 
 **July 2023** - New paper alert: "Characterization of Stigmatizing Language in Medical Records" has been accepted to appear in the main proceedings of ACL 2023. We examine what makes harmful language in clinical documentation different from other forms of abusive language in more widely-studied domains. Paper can be found [<span style="color:blue">here</span>](https://aclanthology.org/2023.acl-short.28/). Code, data, and models can be found [<span style="color:blue">here</span>](https://github.com/kharrigian/ehr-stigma).
@@ -24,7 +26,7 @@ Outside of his academic research, Keith leads data science and machine learning 
 
 **June 2023** - I've started a 3-month internship at [<span style="color:blue">Netflix</span>](https://www.netflix.com). I'll be investigating ways to leverage audio-visual representations to improve audience size forecasting. 
 
-**March 2023** - New paper alert: "Health Disparities in Lapses in Diabetic Retinopathy Care" has been accepted by *Ophthalmology Science*. This study uses NLP to augment information contained within the EHR and provides further evidence of (in)equality in the American healthcare system. Find the preprint [<span style="color:blue">here</span>](https://doi.org/10.1016/j.xops.2023.100295).
+**March 2023** - New paper alert: "Health Disparities in Lapses in Diabetic Retinopathy Care" has been accepted by *Ophthalmology Science*. This study uses NLP to augment information contained within the EHR and provides further evidence of (in)equality in the American healthcare system. Find the paper [<span style="color:blue">here</span>](https://doi.org/10.1016/j.xops.2023.100295).
 
 **May 2022** - New paper alert: "Then and Now: Quantifying the Longitudinal Validity of Self-Disclosed Depression Diagnoses" has been accepted to CLPsych. Learn about some of the pernicious biases that arise when using diagnosis self-disclosures to annotate mental health status in the paper available [<span style="color:blue">here</span>](https://kharrigian.github.io/files/CLPsychThenAndNow.pdf).
 

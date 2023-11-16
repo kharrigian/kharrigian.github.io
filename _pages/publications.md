@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2023
 
-   "An Eye on Clinical BERT: Investigating Language Model Generalization for Diabetic Eye Disease Phenotyping." **Harrigian, K.**; Tang, T.; Franco Gonzales, A.; Cai, C.X.; Dredze, M. *In Findings of the 2023 Machine Learning for Health (ML4H) Conference.*
+   "An Eye on Clinical BERT: Investigating Language Model Generalization for Diabetic Eye Disease Phenotyping." **Harrigian, K.**; Tang, T.; Gonzales, A.; Cai, C.X.; Dredze, M. *In Findings of the 2023 Machine Learning for Health (ML4H) Conference.* [[<span style="color:blue">Paper</span>](https://arxiv.org/abs/2311.08687)] [[<span style="color:blue">Code</span>](https://github.com/kharrigian/ml4h-clinical-bert)]
 
    "Managing HIV During the COVID-19 Pandemic: A Study of Help-Seeking Behaviors on a Social Media Forum." Ayers, J.W.; Zhu, Z.; **Harrigian, K.**; Wightman, G.P.; Dredze, M.; Strathdee, A.; Smith, D.M. *AIDS and Behavior*. [[<span style="color:blue">Paper</span>](https://link.springer.com/article/10.1007/s10461-023-04134-9)]
    
