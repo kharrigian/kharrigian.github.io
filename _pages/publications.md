@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+## 2024
+
+   "Recent Advances, Applications, and Open Challenges in Machine Learning for Health: Reflections from Research Roundtables at ML4H 2023 Symposium." Jeong, H., et al. *ArXiV* [[<span style="color:blue">Paper</span>](https://arxiv.org/abs/2403.01628)] 
+
 ## 2023
 
    "An Eye on Clinical BERT: Investigating Language Model Generalization for Diabetic Eye Disease Phenotyping." **Harrigian, K.**; Tang, T.; Gonzales, A.; Cai, C.X.; Dredze, M. *In Findings of the 2023 Machine Learning for Health (ML4H) Conference.* [[<span style="color:blue">Paper</span>](https://arxiv.org/abs/2311.08687)] [[<span style="color:blue">Code</span>](https://github.com/kharrigian/ml4h-clinical-bert)]
