@@ -16,7 +16,7 @@ Outside of his academic research, Keith leads data science and machine learning 
 
 ## Research Alerts
 
-**February 2024** - I gave a talk at the Center for Language and Speech Processing (CLSP) about using AI to fight inequity in healthcare. Slides available [<span style="color:blue">here</span>](https://docs.google.com/presentation/d/1ukpFZbjZK4lqpJ_s4yhjCOCD6Ve47DSca-SCnZwt7LQ/edit?usp=sharing).
+**February 2024** - I gave a talk at the Center for Language and Speech Processing (CLSP) about using AI to fight inequity in healthcare. Slides available [<span style="color:blue">here</span>](https://docs.google.com/presentation/d/1ukpFZbjZK4lqpJ_s4yhjCOCD6Ve47DSca-SCnZwt7LQ/edit?usp=sharing). Recording available [<span style="color:blue">here</span>](https://www.youtube.com/watch?v=ji8ywtn9noE). 
 
 **November 2023** - New paper alert: "An Eye on Clinical BERT: Investigating Language Model Generalization for Diabetic Eye Disease Phenotyping" will be presented at [<span style="color:blue">ML4H</span>](https://ml4health.github.io/2023/) in New Orleans next month. Our study tempers recent claims that language models pretrained on clinical data are necessary for clinical NLP tasks and highlights the importance of not treating clinical language data as a single homogeneous domain. Find the paper [<span style="color:blue">here</span>](https://arxiv.org/abs/2311.08687).
 
