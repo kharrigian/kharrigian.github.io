@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Keith Harrigian"
   avatar           : "profile.png"
-  bio              : "Robust machine learning for healthcare."
-  location         : "New York, NY"
+  bio              : "Robust machine learning for health."
+  location         : "Philadelphia"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=Ppsp9foAAAAJ&hl=en"
   email            : "kharrigian@jhu.edu"
@@ -106,7 +106,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "kharrigian"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -190,15 +190,6 @@ defaults:
   - scope:
       path: ""
       type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # hobbies
-  - scope:
-      path: ""
-      type: hobbies
     values:
       layout: single
       author_profile: true
