@@ -9,6 +9,8 @@ author_profile: true
 
 ## 2024
 
+   "Improving the identification of diabetic retinopathy and related conditions in the electronic health record using natural language processing methods." **Harrigian, K. et al.** *Ophthalmology Science* [[<span style="color:blue">Paper</span>](https://www.sciencedirect.com/science/article/pii/S2666914524001143)] 
+
    "Recent Advances, Applications, and Open Challenges in Machine Learning for Health: Reflections from Research Roundtables at ML4H 2023 Symposium." Jeong, H., et al. *ArXiV* [[<span style="color:blue">Paper</span>](https://arxiv.org/abs/2403.01628)] 
 
 ## 2023
